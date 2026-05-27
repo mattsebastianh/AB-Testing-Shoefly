@@ -44,3 +44,7 @@ Ad A outperforms Ad B on most days of the week (all except Tuesday), and has a h
 pip install pandas
 python script.py
 ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
